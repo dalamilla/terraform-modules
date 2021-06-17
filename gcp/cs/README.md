@@ -21,7 +21,7 @@ Outputs
 Example Usage
 ----------------
 
-```json
+```hcl
 module "cs" {
   source          = "./gcp/cs"
 

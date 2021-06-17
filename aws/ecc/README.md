@@ -21,7 +21,7 @@ Outputs
 Example Usage
 ----------------
 
-```json
+```hcl
 module "ecc" {
   source          = "./aws/ecc"
 

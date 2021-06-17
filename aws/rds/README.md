@@ -21,7 +21,7 @@ Outputs
 Example Usage
 ----------------
 
-```json
+```hcl
 module "rds" {
   source          = "./aws/rds"
 
