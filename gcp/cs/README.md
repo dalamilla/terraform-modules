@@ -30,7 +30,7 @@ Example Usage
 ----------------
 
 ```hcl
-module "bucket" {
+module "cs" {
   source   = "./gcp/cs"
   name     = "example"
   pid      = "PROJECTID"
